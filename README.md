@@ -39,14 +39,17 @@ Os códigos deste repositório são desenvolvidos utilizando:
 ```text
 Curso-Java/
 │
-├── Aula01-HelloWorld/
-├── Aula02-Variaveis/
-├── Aula03-Scanner/
-├── Aula04-Operadores/
-├── Aula05-IfElse/
-├── Aula06-Switch/
-├── Aula07-While/
-├── Aula08-For/
+├── Aulas/
+│   ├── Aula01-HelloWorld/
+│   ├── Aula02-Variaveis/
+│   ├── Aula03-Scanner/
+│   └── ...
+│
+├── Anotacoes/
+│   ├── Variaveis.md
+│   ├── Scanner.md
+│   ├── IfElse.md
+│   └── ...
 │
 ├── Projeto-Curso/
 │
