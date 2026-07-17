@@ -1,28 +1,146 @@
-# Curso-Java
-Repositório criado para documentar minha jornada de aprendizado em Java, desde os conceitos fundamentais até o desenvolvimento de projetos completos.
+# ☕ Curso Java
 
-Neste repositório estão organizadas todas as aulas práticas realizadas durante meus estudos. Cada pasta representa uma etapa do aprendizado, com exemplos comentados, exercícios, desafios e projetos desenvolvidos de forma progressiva.
+> Repositório criado para documentar minha jornada de aprendizado em Java, desde os conceitos fundamentais até o desenvolvimento de projetos completos.
 
-🎯 Objetivos
-Aprender lógica de programação com Java.
-Entender os conceitos antes de decorar a sintaxe.
-Praticar por meio de exercícios e desafios.
-Construir um projeto que evolui junto com o aprendizado.
-Criar um material de consulta para revisões futuras.
-📂 Estrutura do repositório
+## 📖 Sobre
 
-Cada aula possui seu próprio diretório contendo:
+Este repositório reúne todas as aulas práticas desenvolvidas durante meus estudos em Java.
 
-📖 Explicação dos conceitos estudados.
-💻 Código-fonte comentado.
-✍️ Exercícios práticos.
-🎯 Desafios.
-📝 Correções e boas práticas.
-🚀 Tecnologias
-Java
-GitHub Codespaces
-Visual Studio Code
-Git e GitHub
-📈 Evolução
+O objetivo é aprender a linguagem de forma progressiva, compreendendo cada conceito antes de avançar para assuntos mais complexos. Cada aula contém explicações, exemplos comentados, exercícios, desafios e boas práticas de programação.
 
-O objetivo deste repositório não é apenas armazenar códigos, mas registrar minha evolução como desenvolvedora, acompanhando cada novo conceito aprendido até a construção de aplicações mais completas utilizando Java.
+Ao longo do curso, um projeto prático será desenvolvido e aprimorado conforme novos conteúdos forem sendo aprendidos.
+
+---
+
+## 🎯 Objetivos
+
+- Aprender lógica de programação utilizando Java.
+- Compreender os fundamentos da linguagem.
+- Desenvolver o raciocínio lógico para resolução de problemas.
+- Praticar através de exercícios e desafios.
+- Construir um projeto completo durante o aprendizado.
+- Criar um material organizado para consultas futuras.
+
+---
+
+## 🛠️ Ambiente de Desenvolvimento
+
+Os códigos deste repositório são desenvolvidos utilizando:
+
+- ☕ Java
+- 💻 GitHub Codespaces
+- 📝 Visual Studio Code
+- 🌱 Git e GitHub
+
+---
+
+## 📂 Estrutura do Repositório
+
+```text
+Curso-Java/
+│
+├── Aula01-HelloWorld/
+├── Aula02-Variaveis/
+├── Aula03-Scanner/
+├── Aula04-Operadores/
+├── Aula05-IfElse/
+├── Aula06-Switch/
+├── Aula07-While/
+├── Aula08-For/
+│
+├── Projeto-Curso/
+│
+└── README.md
+```
+
+Cada aula conterá:
+
+- 📖 Explicação do conteúdo
+- 💻 Código comentado
+- ✍️ Exercícios
+- 🎯 Desafios
+- ✅ Correções
+- ⭐ Boas práticas
+
+---
+
+## 📚 Conteúdo do Curso
+
+- [x] Configuração do ambiente
+- [x] Primeiro programa em Java
+- [x] Variáveis e tipos de dados
+- [x] Entrada e saída de dados (Scanner)
+- [x] Operadores matemáticos
+- [x] Operadores relacionais
+- [x] Operadores lógicos
+- [ ] Estruturas de decisão (`if` e `else`)
+- [ ] `switch`
+- [ ] Laços de repetição (`while`, `do while` e `for`)
+- [ ] Métodos
+- [ ] Vetores
+- [ ] Matrizes
+- [ ] Programação Orientada a Objetos (POO)
+- [ ] Classes e Objetos
+- [ ] Encapsulamento
+- [ ] Herança
+- [ ] Polimorfismo
+- [ ] Tratamento de exceções
+- [ ] Coleções
+- [ ] Arquivos
+- [ ] Projeto Final
+
+> Os itens serão atualizados conforme o andamento dos estudos.
+
+---
+
+## 🚀 Projeto Prático
+
+Durante o curso será desenvolvido um **Sistema de Gerenciamento de Cursos**, que crescerá conforme novos conceitos forem aprendidos.
+
+Algumas funcionalidades previstas:
+
+- Cadastro de alunos
+- Cadastro de cursos
+- Cálculo de médias
+- Aprovação e reprovação
+- Menus interativos
+- Organização em classes
+- Programação Orientada a Objetos
+- Persistência de dados
+- Evolução para API Java
+- Integração futura com Front-end
+
+---
+
+## 💡 Metodologia de Estudo
+
+Cada aula segue uma sequência de aprendizado:
+
+1. 📖 Explicação da teoria
+2. 🧠 Analogia para facilitar o entendimento
+3. 💻 Exemplo comentado
+4. ✍️ Exercício guiado
+5. 🎯 Desafio
+6. ✅ Correção detalhada
+7. ⭐ Boas práticas
+8. 🚫 Erros comuns
+
+O objetivo é compreender **como o computador interpreta o código**, desenvolvendo raciocínio lógico e não apenas decorando comandos.
+
+---
+
+## 📈 Evolução
+
+Este repositório representa minha evolução durante os estudos em Java.
+
+Mais do que armazenar códigos, ele registra minha jornada de aprendizado, reunindo desde os primeiros programas até projetos mais completos, servindo como material de consulta e acompanhamento do meu crescimento como desenvolvedora.
+
+---
+
+## 👩‍💻 Autora
+
+**Letícia**
+
+Estudante de Análise e Desenvolvimento de Sistemas.
+
+Em constante aprendizado, buscando evoluir um código de cada vez. 🚀
