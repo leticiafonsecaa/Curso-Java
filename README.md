@@ -92,6 +92,15 @@ Cada aula conterá:
 - [ ] Arquivos
 - [ ] Projeto Final
 
+## Módulo 1 - Fundamentos
+
+- ✅ JPR-001 - Hello World
+- ✅ JPR-002 - Variáveis
+- ✅ JPR-003 - Scanner
+- ✅ JPR-004 - Operadores
+- ⏳ JPR-005 - Estruturas de Decisão
+- ⏳ JPR-006 - Switch
+
 > Os itens serão atualizados conforme o andamento dos estudos.
 
 ---
