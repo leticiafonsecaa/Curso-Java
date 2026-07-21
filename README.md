@@ -76,7 +76,7 @@ Cada aula conterá:
 - [x] Operadores matemáticos
 - [x] Operadores relacionais
 - [x] Operadores lógicos
-- [ ] Estruturas de decisão (`if` e `else`)
+- [x] Estruturas de decisão (`if` e `else`)
 - [ ] `switch`
 - [ ] Laços de repetição (`while`, `do while` e `for`)
 - [ ] Métodos
@@ -98,7 +98,7 @@ Cada aula conterá:
 - ✅ JPR-002 - Variáveis
 - ✅ JPR-003 - Scanner
 - ✅ JPR-004 - Operadores
-- ⏳ JPR-005 - Estruturas de Decisão
+- ✅ JPR-005 - Estruturas de Decisão
 - ⏳ JPR-006 - Switch
 
 > Os itens serão atualizados conforme o andamento dos estudos.

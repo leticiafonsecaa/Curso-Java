@@ -12,6 +12,35 @@ Autor: Letícia
 =========================================
 */
 
+/*IF ELSE */
+/*import java.util.Scanner;
+
+public class Main {
+
+    public static void main(String[] args) {
+
+        Scanner teclado = new Scanner(System.in);
+
+        System.out.print("Digite a temperatura atual: ");
+        double temperatura = teclado.nextDouble();
+
+        if (temperatura >= 30) {
+
+            System.out.println("Está quente!");
+
+        } else {
+            
+            System.out.println("Está agradável!");
+        }
+
+        teclado.close();
+
+    }
+
+}*/
+
+/*ELSE IF */
+
 import java.util.Scanner;
 
 public class Main {
@@ -20,16 +49,23 @@ public class Main {
 
         Scanner teclado = new Scanner(System.in);
 
-        System.out.print("Digite sua nota: ");
-        double nota = teclado.nextDouble();
+        System.out.print("Digite sua idade: ");
+        int idade = teclado.nextInt();
 
-        if (nota >= 7) {
+        if (idade < 16) {
+            
+            System.out.println("Não pode votar");
 
-            System.out.println("Aprovado!");
+        } else if (idade >=16 && idade <= 17) {
+
+            System.out.println("Voto facultativo");
+            
+        } else if (idade >=18 && idade <= 69){
+
+            System.out.println("Voto obrigatório");
 
         } else {
-            
-            System.out.println("Reprovado!");
+            System.out.println("Voto facultativo");
         }
 
         teclado.close();
