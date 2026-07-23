@@ -77,7 +77,7 @@ Cada aula conterá:
 - [x] Operadores relacionais
 - [x] Operadores lógicos
 - [x] Estruturas de decisão (`if` e `else`)
-- [ ] `switch`
+- [x] `switch`
 - [ ] Laços de repetição (`while`, `do while` e `for`)
 - [ ] Métodos
 - [ ] Vetores
@@ -99,7 +99,8 @@ Cada aula conterá:
 - ✅ JPR-003 - Scanner
 - ✅ JPR-004 - Operadores
 - ✅ JPR-005 - Estruturas de Decisão
-- ⏳ JPR-006 - Switch
+- ✅ JPR-006 - Switch
+- ⏳ JPR-007 - Estruturas de Repetição
 
 > Os itens serão atualizados conforme o andamento dos estudos.
 
